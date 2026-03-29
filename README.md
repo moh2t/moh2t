@@ -80,9 +80,9 @@ class Moh:
 
 | Project | Description | Tech |
 |---------|------------|------|
-| [**yes**](https://github.com/moh2t/yes) | JavaScript project | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**30-Days-Of-Python**](https://github.com/moh2t/30-Days-Of-Python) | Step-by-step Python learning challenge | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Web-Dev-For-Beginners**](https://github.com/moh2t/Web-Dev-For-Beginners) | 24 Lessons, 12 Weeks — Web Dev Course | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**Portfolio**](https://github.com/moh2t/portfolio) | Personal portfolio website with dark theme | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| [**TaskFlow**](https://github.com/moh2t/taskflow) | Full-stack task manager with priority filtering | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| [**Sentiment Analyzer**](https://github.com/moh2t/sentiment-analyzer) | NLP-powered sentiment analysis with web UI | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white) |
 
 ---
 

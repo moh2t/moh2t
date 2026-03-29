@@ -2,7 +2,7 @@
 
 # Hey, I'm Moh 👋
 
-**Computer Science Student | Building for the Web & Beyond**
+**Computer Science Final year Student | Building for the Web & Beyond**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/moh2t)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinwunmimuhammed8@gmail.com)
